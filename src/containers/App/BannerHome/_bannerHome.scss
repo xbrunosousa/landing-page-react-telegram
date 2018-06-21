@@ -1,0 +1,46 @@
+.BannerHomeApp {
+	.banner--init {
+		text-align: center;
+		font-size: 35px;
+		font-weight: bold;
+		span {
+			color: #00A4E2;
+		}
+	}
+	.banner--sub {
+		color: #8392A4;
+		text-align: center;
+		width: 400px;
+		margin: 0 auto;
+	}
+	.banner--buttons {
+		margin: 0 auto;
+		padding-top: 10px;
+		a {
+			margin-left: 20px;
+			text-align: center;
+		}
+	}
+	.btn {
+		border-radius: 20px;
+		border: 0;
+		font-size: 16px;
+		padding: 5px 20px 5px 20px;
+	}
+	.banner--buttons__download {
+		background-color: #00E490;
+	}
+	.banner--buttons__web {
+		background-color: #009EDF;
+	}
+	.banner--telegramMac {
+		width: 100%;
+		margin: 10px auto;
+		margin-top: 60px;
+		box-shadow: 5px -5px 5px grey;
+		-webkit-box-shadow: 5px -5px 5px grey;
+		-moz-box-shadow: 5px -5px 5px grey;
+		opacity: 0.1;
+		//background-image: linear-gradient(to bottom, #f8f8f8, #f9faf9, #fbfbfb, #fcfdfc, #fefefe);
+	}
+}

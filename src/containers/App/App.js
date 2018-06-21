@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import NavbarApp from './NavbarApp/navbar';
+import BannerHome from './BannerHome/bannerHome';
 import Blog from './Blog/blog';
+import FooterApp from './Footer/footer';
 import ReactGA from 'react-ga';
 
 class App extends Component {
@@ -13,7 +15,9 @@ class App extends Component {
 		return (
 			<div className="App">
 				<NavbarApp />
+				<BannerHome />
 				<Blog />
+				<FooterApp />
 			</div>
 		);
 	}
