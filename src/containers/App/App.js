@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import NavbarApp from './NavbarApp/navbar';
 import Blog from './Blog/blog';
 import ReactGA from 'react-ga';
 
@@ -10,7 +11,8 @@ class App extends Component {
 	}
 	render() {
 		return (
-			<div className="App container-fluid">
+			<div className="App">
+				<NavbarApp />
 				<Blog />
 			</div>
 		);
