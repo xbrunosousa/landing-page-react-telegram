@@ -1,0 +1,29 @@
+.Featured {
+	.Featured--title {
+		margin-top: 40px;
+		text-align: center;
+		font-size: 26px;
+		font-weight: bold;
+	}
+	span {
+		text-align: center;
+		display: block;
+		color: #70819D;
+		font-size: 18px;
+	}
+	img {
+		width: 100px;
+		height: 50px;
+		cursor: pointer;
+	}
+	.Featured--icons {
+		display: inline-flex;
+		margin: 0 auto;
+		display: block;
+		text-align: center;
+		margin-top: 40px;
+	}
+	.Featured--icons__uol, .Featured--icons__macmagazine, .Featured--icons__tableless {
+		margin-left: 20px;
+	}
+}

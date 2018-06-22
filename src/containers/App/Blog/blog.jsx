@@ -31,7 +31,7 @@ class Blog extends Component {
 		const page = this.state.post.map((post, key) => {
 			return (
 				<div className="blog" key={key}>
-					<p className="blog--section--title">BLOG</p>
+					<p className="blog--section--title">Blog</p>
 					<span className="blog--section--subtitle">Novidades e notícias sobre o Telegram</span>
 					<Container>
 						<div className="row">

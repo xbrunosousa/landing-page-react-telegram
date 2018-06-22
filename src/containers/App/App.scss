@@ -4,10 +4,19 @@
 @import './BannerHome/bannerHome.scss';
 @import './contentApp/contentApp.scss';
 @import './contentApp2/contentApp2.scss';
+@import './Featured/featured.scss';
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
 body {
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: 100% 500px;
 	background-image: linear-gradient(to bottom, #eff8fc, #f4f9fd, #f9fbfe, #fcfdff, #ffffff);
+	width: 98%;
+	margin: 0 auto;
+	// font-family: 'Ubuntu', sans-serif;
+}
+
+* {
+	font-family: 'Ubuntu', sans-serif;
 }

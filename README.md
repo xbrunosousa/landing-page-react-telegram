@@ -1,10 +1,11 @@
 # Landing Page Telegram - React.JS
 
+## Demo:
 Online disponível <a href="https://xbrunosousa.github.io/landing-page-react-telegram/build/" target="_blank">aqui</a> por meio do Github Pages.
 
 ## Specs:
 - Sessão "blog" puxa os posts via API do site "https://telegram.blog.br"
-- Flip Cards da sessão "blog" foram construídos apenas com SASS. Nada de JS! =)
+- Flip Cards da sessão "blog" foram construídos apenas com SASS. Nada de jQuery! 🤓
 - 
 
 ## Instruções YARN: 
