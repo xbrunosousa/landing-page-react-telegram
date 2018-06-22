@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Button, Row, Container } from 'reactstrap';
 import bannerTelegramMac from '../../../assets/telegramMacOS.png';
+// import bannerTelegramMac from '../../../assets/teste.png';
 
 
 class BannerHome extends Component {
