@@ -5,6 +5,7 @@ class FooterApp extends Component {
 	render() {
 		return (
 			<div className="footerApp">
+			<Container>
 				<Row>
 
 					<Col sm={{ offset: 1, size: 4 }}>
@@ -50,8 +51,7 @@ class FooterApp extends Component {
 						<span className="footerApp--author">Desenvolvido com <i className="fab fa-react"></i> por <a href="https://bruno.vin" target="_blank" rel="noopener noreferrer">Bruno Vinícius</a></span>
 					</div>
 				</Container>
-
-
+			</Container>
 			</div>
 		)
 	}
