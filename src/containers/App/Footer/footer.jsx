@@ -46,7 +46,7 @@ class FooterApp extends Component {
 				<Container>
 					<div className="footerApp--bottom">
 						<hr />
-						<span>© 2018 telegram Inc.</span>
+						<span className="telegram-inc">© 2018 telegram Inc.</span>
 						<span className="footerApp--author">Desenvolvido com <i className="fab fa-react"></i> por <a href="https://bruno.vin" target="_blank" rel="noopener noreferrer">Bruno Vinícius</a></span>
 					</div>
 				</Container>

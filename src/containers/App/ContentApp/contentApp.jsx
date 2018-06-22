@@ -17,15 +17,16 @@ class ContentApp extends Component {
 							</div>
 
 							<div className="ContentApp--items">
-								<p><i className="fas fa-sync"></i></p>
-								<span className="ContentApp--title-icon">Sincronize</span>
-								<p className="ContentApp--subtitle-icon">suas conversas em todos seus dispositivos.</p>
-							</div>
-
-							<div className="ContentApp--items">
 								<p><i className="fas fa-users"></i></p>
 								<span className="ContentApp--title-icon">Grupos</span>
 								<p className="ContentApp--subtitle-icon">com até 10000 membros</p>
+							</div>
+
+							<div className="ContentApp--items">
+								<p><i className="fas fa-sync"></i></p>
+
+								<span className="ContentApp--title-icon">Sincronize</span>
+								<p className="ContentApp--subtitle-icon">suas conversas em todos seus dispositivos</p>
 							</div>
 						</Col>
 

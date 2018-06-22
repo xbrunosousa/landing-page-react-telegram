@@ -36,8 +36,8 @@ class Blog extends Component {
 					<Container>
 						<div className="row">
 							<Col sm={{ size: 4 }}>
-								<div className="cardd">
-									<div className="front">
+								<div className="blog--card">
+									<div className="blog--card__front">
 										<Card>
 											<CardImg top width="100%" src="https://bit.ly/2M8SmzK" alt="Imagem do Post" />
 											<CardBody>
@@ -50,7 +50,7 @@ class Blog extends Component {
 											</CardBody>
 										</Card>
 									</div>
-									<div className="back">
+									<div className="blog--card__back">
 										<p className="blog--post--descript">{post[0].excerpt.rendered.substr(3, 160) + '...'}</p>
 										<a target="_blank" href={post[0].guid.rendered}><Button size="sm">Continuar lendo</Button></a>
 										<div className="blog--social">
@@ -62,8 +62,8 @@ class Blog extends Component {
 							</Col>
 
 							<Col sm={{ size: 4 }}>
-								<div className="cardd">
-									<div className="front">
+								<div className="blog--card">
+									<div className="blog--card__front">
 										<Card>
 											<CardImg top width="100%" src="https://bit.ly/2tlBGgA" alt="Imagem do Post" />
 											<CardBody>
@@ -74,7 +74,7 @@ class Blog extends Component {
 											</CardBody>
 										</Card>
 									</div>
-									<div className="back">
+									<div className="blog--card__back">
 										<p className="blog--post--descript">{post[1].excerpt.rendered.substr(3, 160) + '...'}</p>
 										<a target="_blank" href={post[1].guid.rendered}><Button size="sm">Continuar lendo</Button></a>
 										<div className="blog--social">
@@ -86,8 +86,8 @@ class Blog extends Component {
 							</Col>
 
 							<Col sm={{ size: 4 }}>
-								<div className="cardd">
-									<div className="front">
+								<div className="blog--card">
+									<div className="blog--card__front">
 										<Card>
 											<CardImg top width="100%" src="https://bit.ly/2texLDj" alt="Imagem do Post" />
 											<CardBody>
@@ -98,7 +98,7 @@ class Blog extends Component {
 											</CardBody>
 										</Card>
 									</div>
-									<div className="back">
+									<div className="blog--card__back">
 										<p className="blog--post--descript">{post[2].excerpt.rendered.substr(3, 160) + '...'}</p>
 										<a target="_blank" href={post[2].guid.rendered}><Button size="sm">Continuar lendo</Button></a>
 										<div className="blog--social">

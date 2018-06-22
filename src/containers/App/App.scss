@@ -2,11 +2,12 @@
 @import './NavbarApp/navbar.scss';
 @import './Footer/footer.scss';
 @import './BannerHome/bannerHome.scss';
-@import './ContentApp/contentApp.scss';
+@import './contentApp/contentApp.scss';
+@import './contentApp2/contentApp2.scss';
 
 body {
 	background-repeat: no-repeat;
 	background-position: top center;
-	background-size: 100% 300px;
+	background-size: 100% 500px;
 	background-image: linear-gradient(to bottom, #eff8fc, #f4f9fd, #f9fbfe, #fcfdff, #ffffff);
 }

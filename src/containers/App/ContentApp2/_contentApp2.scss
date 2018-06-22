@@ -1,4 +1,4 @@
-.ContentApp {
+.ContentApp2 {
 	background-image: linear-gradient(to bottom, #f8f8f8, #f9faf9, #fbfbfb, #fcfdfc, #fefefe);
 	margin-top: 50px;
 	.ContentApp--title-section {
@@ -19,9 +19,6 @@
 			font-size: 50px;
 			color: #C0C7D1;
 			margin-right: 10px;
-			&:hover {
-				color: #00A8C6;
-			}
 		}
 		.ContentApp--title-icon {
 			text-align: center;
@@ -33,6 +30,9 @@
 			color: #C0C7D1;
 			text-align: center;
 			font-size: 14px;
+			span {
+				color: #42ABD6;
+			}
 		}
 	}
 	.ContentApp--items {
@@ -41,26 +41,35 @@
 	.row {
 		margin-top: 30px;
 	}
-	.vimeo {
-		padding:56.25% 0 0 0;
-		position:relative;
-		margin: 30px 0 30px 0;
-		padding-bottom: 40px;
-		iframe {
-			position:absolute;
-			top:0;
-			left:0;
-			width:100%;
-			height:100%;
-		}
+	//icons
+	.fa-user-secret {
+		color: #00A4A3 !important;
 	}
-	@media (min-width: 576px) { // Vimeo width in desktop 80%, and mobile full
-		.vimeo {
-			width: 80%;
-			margin: 0 auto;
-			display: block;
-		}
+	.fa-globe-americas {
+		color: #4151DD !important;
 	}
+	.fa-low-vision {
+		color: #F10000 !important;
+	}
+	.fa-cloud {
+		color: #0089CB !important;
+	}
+	.fa-lock-open {
+		color: #00A306 !important;
+	}
+	.fa-database {
+		color: #0090D1 !important;
+	}
+	.fa-tachometer-alt {
+		color: #FFBE00 !important;
+	}
+	.fa-money-bill-wave-alt {
+		color: #FF00D8 !important;
+	}
+	.fa-bullhorn {
+		color: #FF4C00 !important;
+	}
+	// fim icons
 } // End .ContentApp
 
 

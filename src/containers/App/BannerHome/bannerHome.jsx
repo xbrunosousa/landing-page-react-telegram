@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Button, Row, Container } from 'reactstrap';
-import bannerTelegramMac from '../../../assets/telegramMacOS.png';
-// import bannerTelegramMac from '../../../assets/teste.png';
+// import bannerTelegramMac from '../../../assets/telegramMacOS.png';
+import bannerTelegramMac from '../../../assets/teste.png';
 
 
 class BannerHome extends Component {
@@ -9,7 +9,7 @@ class BannerHome extends Component {
 		return (
 			<Container>
 			<div className="BannerHomeApp">
-				<p className="banner--init">Nova era da <span>mensagem</span></p>
+				<p className="banner--init">A nova era das <span>mensagens</span></p>
 				<p className="banner--sub">Telegram é um aplicativo de mensagens móveis e desktop baseado em nuvem com foco em segurança e velocidade.</p>
 				<Row>
 					<div className="banner--buttons">
