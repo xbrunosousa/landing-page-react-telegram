@@ -5,7 +5,7 @@
 ![Desktop](desktop.png)
 
 ## Demo:
-Online disponível <a href="https://xbrunosousa.github.io/landing-page-react-telegram/build/" target="_blank">aqui</a> por meio do Github Pages.
+Online disponível <a href="https://xbrunosousa.github.io/landing-page-react-telegram/" target="_blank">aqui</a> por meio do Github Pages.
 
 ## Specs:
 - Sessão "blog" puxa os posts via API do site "https://telegram.blog.br"
