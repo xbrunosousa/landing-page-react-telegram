@@ -1,23 +1,29 @@
 {
-	"name": "landing-page-react-telegram",
-	"homepage": "https://xbrunosousa.github.io/landing-page-react-telegram/",
-	"version": "1.0.0",
-	"private": true,
-	"dependencies": {
-		"date-fns": "^1.29.0",
-		"gh-pages": "^1.2.0",
-		"react": "^16.4.1",
-		"react-dom": "^16.4.1",
-		"react-ga": "^2.5.3",
-		"react-scripts": "1.1.4",
-		"reactstrap": "^6.1.0"
-	},
-	"scripts": {
-		"start": "react-scripts start",
-		"build": "react-scripts build",
-		"test": "react-scripts test --env=jsdom",
-		"eject": "react-scripts eject",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build"
-	}
+  "name": "landing-page-react-telegram",
+  "homepage": "https://xbrunosousa.github.io/landing-page-react-telegram/",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "gh-pages": "^2.0.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-ga": "^2.5.3",
+    "react-scripts": "2.1.1",
+    "reactstrap": "^6.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
