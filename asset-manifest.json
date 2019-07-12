@@ -1,14 +1,16 @@
 {
-  "main.css": "/landing-page-react-telegram/static/css/main.d3edebd2.chunk.css",
-  "main.js": "/landing-page-react-telegram/static/js/main.ae87f1c0.chunk.js",
-  "main.js.map": "/landing-page-react-telegram/static/js/main.ae87f1c0.chunk.js.map",
-  "static/js/1.4e11ce10.chunk.js": "/landing-page-react-telegram/static/js/1.4e11ce10.chunk.js",
-  "static/js/1.4e11ce10.chunk.js.map": "/landing-page-react-telegram/static/js/1.4e11ce10.chunk.js.map",
-  "runtime~main.js": "/landing-page-react-telegram/static/js/runtime~main.eea79519.js",
-  "runtime~main.js.map": "/landing-page-react-telegram/static/js/runtime~main.eea79519.js.map",
-  "static/media/telegram-mac-os-screenshot-min.png": "/landing-page-react-telegram/static/media/telegram-mac-os-screenshot-min.f443ca02.png",
-  "static/css/main.d3edebd2.chunk.css.map": "/landing-page-react-telegram/static/css/main.d3edebd2.chunk.css.map",
-  "index.html": "/landing-page-react-telegram/index.html",
-  "precache-manifest.879301a559f9ce6b92c8cb2548faff36.js": "/landing-page-react-telegram/precache-manifest.879301a559f9ce6b92c8cb2548faff36.js",
-  "service-worker.js": "/landing-page-react-telegram/service-worker.js"
+  "files": {
+    "main.css": "/landing-page-react-telegram/static/css/main.c62380a4.chunk.css",
+    "main.js": "/landing-page-react-telegram/static/js/main.b1e51525.chunk.js",
+    "main.js.map": "/landing-page-react-telegram/static/js/main.b1e51525.chunk.js.map",
+    "runtime~main.js": "/landing-page-react-telegram/static/js/runtime~main.c4a9f240.js",
+    "runtime~main.js.map": "/landing-page-react-telegram/static/js/runtime~main.c4a9f240.js.map",
+    "static/js/2.2e2d2936.chunk.js": "/landing-page-react-telegram/static/js/2.2e2d2936.chunk.js",
+    "static/js/2.2e2d2936.chunk.js.map": "/landing-page-react-telegram/static/js/2.2e2d2936.chunk.js.map",
+    "index.html": "/landing-page-react-telegram/index.html",
+    "precache-manifest.745ae624b1f8717410ea7e8097a4273e.js": "/landing-page-react-telegram/precache-manifest.745ae624b1f8717410ea7e8097a4273e.js",
+    "service-worker.js": "/landing-page-react-telegram/service-worker.js",
+    "static/css/main.c62380a4.chunk.css.map": "/landing-page-react-telegram/static/css/main.c62380a4.chunk.css.map",
+    "static/media/telegram-mac-os-screenshot-min.png": "/landing-page-react-telegram/static/media/telegram-mac-os-screenshot-min.f443ca02.png"
+  }
 }
