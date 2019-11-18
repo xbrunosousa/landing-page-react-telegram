@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './App.scss';
 import NavbarApp from './NavbarApp/navbar';
 import BannerHome from './BannerHome/bannerHome';
 import ContentApp from './ContentApp/contentApp';
