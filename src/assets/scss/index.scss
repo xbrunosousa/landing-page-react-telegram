@@ -1,0 +1,30 @@
+@import './bannerHome';
+@import './footer';
+@import './blog';
+@import './featured';
+@import './navbar';
+@import './contentApp';
+@import './pros';
+
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: {
+    repeat: no-repeat;
+    position: top center;
+    size: 100% 500px;
+    image: linear-gradient(
+      to bottom,
+      #eff8fc,
+      #f4f9fd,
+      #f9fbfe,
+      #fcfdff,
+      #ffffff
+    );
+  }
+  font-family: 'Ubuntu', sans-serif;
+}
