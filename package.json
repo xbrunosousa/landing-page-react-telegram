@@ -1,9 +1,10 @@
 {
   "name": "landing-page-react-telegram",
-  "homepage": "https://xbrunosousa.github.io/landing-page-react-telegram/",
+  "homepage": "https://projects.brunosousa.dev/landing-page-react-telegram/",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.19.0",
     "date-fns": "^1.29.0",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
@@ -15,8 +16,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
