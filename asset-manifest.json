@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/landing-page-react-telegram/static/css/main.c62380a4.chunk.css",
-    "main.js": "/landing-page-react-telegram/static/js/main.b1e51525.chunk.js",
-    "main.js.map": "/landing-page-react-telegram/static/js/main.b1e51525.chunk.js.map",
-    "runtime~main.js": "/landing-page-react-telegram/static/js/runtime~main.c4a9f240.js",
-    "runtime~main.js.map": "/landing-page-react-telegram/static/js/runtime~main.c4a9f240.js.map",
-    "static/js/2.2e2d2936.chunk.js": "/landing-page-react-telegram/static/js/2.2e2d2936.chunk.js",
-    "static/js/2.2e2d2936.chunk.js.map": "/landing-page-react-telegram/static/js/2.2e2d2936.chunk.js.map",
+    "main.css": "/landing-page-react-telegram/static/css/main.a75f3af4.chunk.css",
+    "main.js": "/landing-page-react-telegram/static/js/main.9332e78a.chunk.js",
+    "main.js.map": "/landing-page-react-telegram/static/js/main.9332e78a.chunk.js.map",
+    "runtime-main.js": "/landing-page-react-telegram/static/js/runtime-main.96342881.js",
+    "runtime-main.js.map": "/landing-page-react-telegram/static/js/runtime-main.96342881.js.map",
+    "static/js/2.ce108455.chunk.js": "/landing-page-react-telegram/static/js/2.ce108455.chunk.js",
+    "static/js/2.ce108455.chunk.js.map": "/landing-page-react-telegram/static/js/2.ce108455.chunk.js.map",
     "index.html": "/landing-page-react-telegram/index.html",
-    "precache-manifest.745ae624b1f8717410ea7e8097a4273e.js": "/landing-page-react-telegram/precache-manifest.745ae624b1f8717410ea7e8097a4273e.js",
+    "precache-manifest.6936faeb1518458c1a9bd3e6d6bd8fc0.js": "/landing-page-react-telegram/precache-manifest.6936faeb1518458c1a9bd3e6d6bd8fc0.js",
     "service-worker.js": "/landing-page-react-telegram/service-worker.js",
-    "static/css/main.c62380a4.chunk.css.map": "/landing-page-react-telegram/static/css/main.c62380a4.chunk.css.map",
+    "static/css/main.a75f3af4.chunk.css.map": "/landing-page-react-telegram/static/css/main.a75f3af4.chunk.css.map",
     "static/media/telegram-mac-os-screenshot-min.png": "/landing-page-react-telegram/static/media/telegram-mac-os-screenshot-min.f443ca02.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96342881.js",
+    "static/js/2.ce108455.chunk.js",
+    "static/css/main.a75f3af4.chunk.css",
+    "static/js/main.9332e78a.chunk.js"
+  ]
 }
