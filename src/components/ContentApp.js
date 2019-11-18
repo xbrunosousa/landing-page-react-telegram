@@ -104,7 +104,7 @@ export default () => (
       <div className='vimeo'>
         <iframe
           title='Telegram on Vimeo'
-          src='http://bit.ly/32R70DO'
+          src='https://bit.ly/32R70DO'
           frameBorder='0'
           allowFullScreen
         />
