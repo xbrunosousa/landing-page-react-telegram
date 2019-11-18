@@ -1,5 +1,5 @@
-// API ADDRESS
+import axios from 'axios';
 
-const API = 'https://telegram.blog.br/wp-json/wp/v2/posts'
-
-export default API
+export const api = axios.create({
+  baseURL: 'https://blogdoiphone.com/wp-json/wp/v2/posts?search=telegram'
+});
